@@ -1,0 +1,181 @@
+{
+  "personal": {
+    "name": "Raj Mathur",
+    "title": "Backend Developer | Full-Stack Enthusiast",
+    "subtitle": "Engineer building scalable backend systems and dynamic user interfaces",
+    "email": "mathurraj188@gmail.com",
+    "phone": "+91 8340637097",
+    "location": "Bhubaneswar, India",
+    "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/myimg2.jpg-9jhBrB1MLYS3KRSn0ZPHRUT1Knot2V.jpeg",
+    "resume": "/RajResumeExp.pdf",
+    "social": {
+      "github": "https://github.com/Rajmathur-8",
+      "linkedin": "https://www.linkedin.com/in/raj-mathur-778181258/",
+      "twitter": "https://x.com/RajMathur03",
+      "leetcode": "https://leetcode.com/u/Raj_Mathur03/"
+    }
+  },
+  "about": {
+    "description": "I'm a dedicated full-stack developer and Computer Science undergrad passionate about building performant backend systems and intuitive UIs. Skilled in Java, Spring Boot, React, and Node.js with a strong grasp of DSA and system design. Currently pursuing B.Tech in Computer Science from IIIT Bhubaneswar with a CGPA of 7.83/10.",
+    "highlights": [
+      "LeetCode Knight with rating 1948 and 900+ problems solved",
+      "Winner of The Innovation and GeoHack hackathons",
+      "Built scalable systems using Spring Boot and React",
+      "Deep knowledge in DSA, system design, and backend infrastructure",
+      "Currently working as Software Developer Intern at Smart Orbit Pvt Ltd"
+    ]
+  },
+  "skills": [
+    { "name": "Java", "level": 90, "category": "Backend" },
+    { "name": "Spring Boot", "level": 85, "category": "Backend" },
+    { "name": "JavaScript/TypeScript", "level": 90, "category": "Frontend" },
+    { "name": "MongoDB", "level": 80, "category": "Database" },
+    { "name": "MySQL", "level": 80, "category": "Database" },
+    { "name": "React", "level": 80, "category": "Frontend" },
+    { "name": "WebSockets", "level": 75, "category": "Backend" },
+    { "name": "Node.js", "level": 80, "category": "Backend" },
+    { "name": "Express", "level": 75, "category": "Backend" },
+    { "name": "C", "level": 80, "category": "Language" },
+    { "name": "C++", "level": 80, "category": "Language" },
+    { "name": "Python", "level": 75, "category": "Language" },
+    { "name": "HTML/CSS", "level": 90, "category": "Frontend" },
+    { "name": "Tailwind CSS", "level": 80, "category": "Frontend" },
+    { "name": "PostgreSQL", "level": 82, "category": "Database" },
+    { "name": "Redis", "level": 75, "category": "DevOps" },
+    { "name": "Docker", "level": 78, "category": "DevOps" },
+    { "name": "Data Structures", "level": 90, "category": "DSA" },
+    { "name": "Algorithms", "level": 88, "category": "DSA" },
+    { "name": "Git", "level": 85, "category": "Version Control" },
+    { "name": "RESTful APIs", "level": 85, "category": "API Design" },
+    { "name": "OOPs", "level": 90, "category": "Language" },
+    { "name": "DBMS", "level": 80, "category": "Database" },
+    { "name": "Operating Systems", "level": 75, "category": "DevOps" },
+    { "name": "Problem Solving", "level": 90, "category": "Soft Skills" },
+    { "name": "Team Collaboration", "level": 85, "category": "Soft Skills" },
+    { "name": "Communication", "level": 80, "category": "Soft Skills" },
+    { "name": "Time Management", "level": 85, "category": "Soft Skills" },
+    { "name": "Computer Networks", "level": 75, "category": "DevOps" },
+    { "name": "System Design", "level": 80, "category": "Architecture" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Online Food Delivery App Backend",
+      "description": "Designed and implemented the backend of an online food delivery application, integrating secure user authentication and optimized database operations. Implemented JWT-based user authentication and role-based access control for enhanced security.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/food-delivery-Jmb7JpRQNtVmbCE5lMaW8EH4P4mTPl.png",
+      "technologies": ["Spring Boot", "Spring Security", "MySQL", "JPA", "JWT"],
+      "github": "https://github.com/Rajmathur-8/Online-food-delivery-app---backend",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Social Media App Backend",
+      "description": "Enhanced real-time messaging using WebSockets, improving communication speed by 40% and user engagement by 25%. Optimized database performance using Spring Data JPA and Hibernate. Improved user profile management by reducing latency by 35%.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/social-media-lxdthYkxUh4VNqqR66s8e6kPYKAjHV.png",
+      "technologies": ["Spring Boot", "Spring Security", "MySQL", "JPA", "WebSockets"],
+      "github": "https://github.com/Rajmathur-8/social-media-app-backend",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Expense Tracker App",
+      "description": "An interactive financial dashboard built with Angular and Spring Boot to visualize expenses and income trends using Chart.js. Features comprehensive analytics and budget management capabilities.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/expense-JkOobHx0yGto9NpmIawCfFUL7yapaX.png",
+      "technologies": ["Angular", "Spring Boot", "Spring Data JPA", "Chart.js"],
+      "github": "https://github.com/Rajmathur-8/WalletWise",
+      "demo": "",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Job Portal Website",
+      "description": "Full-stack job portal platform with user authentication, job posting, application management, and advanced search functionality. Built with modern technologies for optimal performance.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/jobportal-lvVNX90Q8VHkqkE5lxtrwz1UrdzQ4E.png",
+      "technologies": ["React", "Spring Boot", "JPA", "MongoDB", "JWT", "TypeScript"],
+      "github": "https://github.com/Rajmathur-8/Job-portal-website",
+      "demo": "",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Chat Room Application",
+      "description": "Real-time chat application with user authentication, message history, and WebSocket integration for instant messaging. Features multiple chat rooms and user presence indicators.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/chatroom-Xidf3t0jdxcuzDr8m5XVgXngX32q6Y.png",
+      "technologies": ["React", "JavaScript", "Spring Boot", "WebSockets"],
+      "github": "https://github.com/Rajmathur-8/chatroom-ui-",
+      "demo": "",
+      "featured": true
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "Smart Orbit Pvt Ltd",
+      "position": "Software Developer Intern",
+      "duration": "May 2025 - Present",
+      "location": "Bhubaneswar, India",
+      "description": "Contributed to the development of the Acquire module and NearSearch project, working across both backend and frontend to build robust, location-based features and ensure seamless client-server integration.",
+      "achievements": [
+        "Developed RESTful APIs using Node.js and Express.js, reducing API response time by 40%",
+        "Implemented location-based search functionality using geospatial filtering, resulting in 25% faster search results",
+        "Built responsive and interactive frontend components using React for NearSearch",
+        "Streamlined development workflow by creating comprehensive API documentation, reducing onboarding time by 50%",
+        "Collaborated cross-functionally to ensure smooth data flow and user experience"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "title": "Winner - The Innovation Hackathon",
+      "organization": "The Innovation",
+      "date": "2024",
+      "description": "Secured 1st place for building a scalable AI-based recommendation system and ML analytics-based environmental monitoring solution for farmers.",
+      "icon": "trophy",
+      "category": "Competition"
+    },
+    {
+      "id": 2,
+      "title": "Winner - GeoHack 2024",
+      "organization": "GeoHack",
+      "date": "2024",
+      "description": "Created a real-time location service using geospatial analytics, demonstrating expertise in location-based technologies.",
+      "icon": "trophy",
+      "category": "Competition"
+    },
+    {
+      "id": 3,
+      "title": "Top 4 - Hackfest",
+      "organization": "Hackfest",
+      "date": "2024",
+      "description": "Ranked among top 4 teams for building an integrated solution for farmers using Machine Learning and Blockchain technologies.",
+      "icon": "award",
+      "category": "Competition"
+    },
+    {
+      "id": 4,
+      "title": "Finalist - Hacktoberfest 2024",
+      "organization": "GitHub",
+      "date": "2024",
+      "description": "Contributed to multiple open-source projects, successfully completing all PR challenges and making impactful contributions.",
+      "icon": "star",
+      "category": "Open Source"
+    },
+    {
+      "id": 5,
+      "title": "Knight @LeetCode",
+      "organization": "LeetCode",
+      "date": "2025",
+      "description": "Achieved Knight status with a rating of 1948, solved 900+ problems, and ranked in the top 3% of competitive programmers.",
+      "icon": "zap",
+      "category": "DSA"
+    }
+  ],
+  "contact": {
+    "title": "Let's Work Together",
+    "description": "I'm always interested in new opportunities and exciting projects. Whether you have a project in mind or just want to chat about technology, feel free to reach out!",
+    "cta": "Get In Touch"
+  }
+}
